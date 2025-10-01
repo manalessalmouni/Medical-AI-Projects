@@ -1,9 +1,6 @@
 <div align="center">
   <h1>🏥 Medical AI Projects</h1>
-  <p>
-    Ce dépôt regroupe <b>4 notebooks Jupyter</b> de Machine Learning et Deep Learning appliqués au domaine médical : 
-    classification d’images, prédiction de maladies, et assistant conversationnel intelligent.
-  </p>
+
 </div>
 
 <hr/>
@@ -49,14 +46,14 @@
   </li>
   <li><b>Librairies principales :</b> scikit-learn, tensorflow.keras, numpy, pandas, matplotlib, seaborn.</li>
 </ul>
-
-<h3>🤖 4. SymptoBot – Symptom-based Assistant</h3>
+<h3>❤️ 4. Heart Disease Prediction</h3>
 <ul>
-  <li><b>But :</b> Créer un chatbot qui propose des maladies probables en fonction des symptômes renseignés.</li>
+  <li><b>But :</b> Prédire la présence ou non de maladies cardiaques à partir de variables cliniques (âge, tension, cholestérol, douleurs thoraciques, etc.).</li>
   <li><b>Technologies utilisées :</b>
     <ul>
       <li>Classificateurs testés : Logistic Regression, Naive Bayes, SVM, Random Forest, KNN, XGBoost.</li>
-      <li>Évaluation via matrices de confusion et classification reports.</li>
+      <li>Prétraitement : normalisation avec <code>StandardScaler</code>, analyse exploratoire des données.</li>
+      <li>Évaluation via matrices de confusion, accuracy et classification reports.</li>
       <li><b>Meilleur modèle :</b> SVM sur le dataset testé.</li>
     </ul>
   </li>
