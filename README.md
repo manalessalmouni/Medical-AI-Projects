@@ -62,10 +62,4 @@
 
 <hr/>
 
-<h2>🛠️ Points forts</h2>
-<ul>
-  <li><b>Deep Learning</b> appliqué à l’imagerie médicale (DenseNet, CNNs).</li>
-  <li><b>Machine Learning classique</b> sur données tabulaires (diabète, chatbot).</li>
-  <li><b>Explicabilité</b> des modèles (Grad-CAM, feature importance).</li>
-  <li><b>Bonnes pratiques</b> : callbacks, standardisation, gestion du déséquilibre de classes.</li>
-</ul>
+
